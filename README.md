@@ -71,8 +71,16 @@ Puedes explorar mis repositorios para descubrir mis prácticas, experimentos y p
 ## 📈 Mi actividad
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JavierAmayaNavarro&theme=tokyo-night&hide_border=true" alt="Gráfico de actividad de GitHub" />
+  <a href="https://github.com/JavierAmayaNavarro">
+    <img src="https://img.shields.io/badge/Ver%20mi%20actividad-en%20GitHub-181717?style=for-the-badge&logo=github" alt="Ver mi actividad en GitHub" />
+  </a>
 </p>
+
+Consulta mis contribuciones, commits y proyectos directamente en mi perfil de GitHub.
+
+➡️ [Ver mi actividad y contribuciones](https://github.com/JavierAmayaNavarro?tab=overview)
+
+---
 
 ---
 
